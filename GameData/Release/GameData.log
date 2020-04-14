@@ -1,0 +1,8 @@
+﻿  CAutoPlay.cpp
+e:\myproj\rxjh\gamedata\cautoplay.cpp(437): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  GameFunction.cpp
+e:\myproj\rxjh\gamedata\gamefunction.cpp(51): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  HookGameMainThread.cpp
+e:\myproj\rxjh\gamedata\hookgamemainthread.cpp(245): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  StructGame.cpp
+e:\myproj\rxjh\gamedata\structgame.cpp(2152): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?

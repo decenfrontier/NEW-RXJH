@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  CDialogCtrlCenter.cpp
+  CPage_GuaJi.cpp
+  CDialogMainTab.cpp
+  CPage_BuySell.cpp
+  CPage_GoodsManage.cpp
+  MFC_DLL.cpp
+  正在生成代码...
+    正在创建库 ../bin/MFC_DLL.lib 和对象 ../bin/MFC_DLL.exp
+  MFC_DLL.vcxproj -> E:\VS_MyProj\RXJH\MFC_DLL\../bin/MFC_DLL.dll

@@ -1,0 +1,3 @@
+﻿  InjectDll.cpp
+e:\myproj\rxjh\injectdll\injectdll.cpp(68): error C2664: “HWND FindWindowW(LPCWSTR,LPCWSTR)”: 无法将参数 1 从“const char [11]”转换为“LPCWSTR”
+  e:\myproj\rxjh\injectdll\injectdll.cpp(68): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换

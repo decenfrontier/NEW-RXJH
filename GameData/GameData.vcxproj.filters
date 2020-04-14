@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="HookMainThread">
+      <UniqueIdentifier>{08a08e4c-4b18-48fd-a667-0ef94f9ffbdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="全局变量">
+      <UniqueIdentifier>{9629fcc8-2aec-427a-af45-a430a76c0692}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏结构与偏移">
+      <UniqueIdentifier>{293bc5f9-1556-4b8c-8275-fbd4b69153eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="挂机类">
+      <UniqueIdentifier>{c18a8c74-6ed3-436f-88f6-ccf219d41717}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="功能封装">
+      <UniqueIdentifier>{ca7e66f8-8e52-43f3-98c9-1d68eb294a4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LUA脚本">
+      <UniqueIdentifier>{005e4ba9-4317-4ca3-9532-bc743724a295}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="挂机类\基址">
+      <UniqueIdentifier>{afc0d328-a8dc-4ab8-9703-e79aa3ac51c1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HookGameMainThread.h">
+      <Filter>HookMainThread</Filter>
+    </ClInclude>
+    <ClInclude Include="global_Var.h">
+      <Filter>全局变量</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseGame.h">
+      <Filter>挂机类\基址</Filter>
+    </ClInclude>
+    <ClInclude Include="StructGame.h">
+      <Filter>游戏结构与偏移</Filter>
+    </ClInclude>
+    <ClInclude Include="TypeObj.h">
+      <Filter>全局变量</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CAutoPlay.h">
+      <Filter>挂机类</Filter>
+    </ClInclude>
+    <ClInclude Include="GameFunction.h">
+      <Filter>功能封装</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaGame.h">
+      <Filter>LUA脚本</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HookGameMainThread.cpp">
+      <Filter>HookMainThread</Filter>
+    </ClCompile>
+    <ClCompile Include="StructGame.cpp">
+      <Filter>游戏结构与偏移</Filter>
+    </ClCompile>
+    <ClCompile Include="CAutoPlay.cpp">
+      <Filter>挂机类</Filter>
+    </ClCompile>
+    <ClCompile Include="GameFunction.cpp">
+      <Filter>功能封装</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaGame.cpp">
+      <Filter>LUA脚本</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
